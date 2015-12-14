@@ -1,0 +1,73 @@
+/* CSS styling for the header, tables, and other page elements.*/
+.header {
+	background-color: #9494b8;
+	color:#000;
+	font-family: Perpetua Titling MT, Century Gothic, Helvetica, Arial;
+	font-size: 30px;
+	text-align: center;
+	padding: 10px;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  padding:5px;
+  border:5px solid #9494b8;
+  background-color:#F5F5F5;
+}
+
+body {
+	color: #000;
+	background-color: #F5F5F5;
+	font: Helvetica, Arial, Geneva, sans-serif;
+}
+
+p {
+	font-family: Perpetua Titling MT, Century Gothic, Helvetica, Arial;
+	font-size: 20px;
+	text-align: center;
+	padding: 18px;
+	
+}
+
+input {
+	font-family: Perpetua Titling MT, Century Gothic, Helvetica, Arial;
+	font-size: 20px;
+	align: center;
+}
+	
+th {
+	font-family: Perpetua Titling MT, Century Gothic, Helvetica, Arial;
+	font-size: 15px;
+	color: #fff;
+	background-color: #000;
+	padding: 10px;
+}	
+
+
+table {
+	margin: 0 auto;
+	padding: 50px;
+}
+
+td {
+	padding: 10px;
+	text-align: left;
+	border-bottom: 1px solid #000;
+	font-family: Helvetica;
+}
+
+ul {
+	font-family: Helvetica;
+	font-size: 20px;
+}
+
+/*LINKS*/
+a:link {color: #000;}
+a:visited {color: #666699;}
+a:hover {color: #fff;}
+a:active {color: #F5F5F5;}
